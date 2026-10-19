@@ -1,0 +1,21 @@
+{
+  "name": "genpark-vector-embedding-cache-deduplication-sentinel-skill",
+  "version": "1.0.1",
+  "description": "High-dimensional vector embedding semantic SimHash deduplication sentinel with LRU cache simulation",
+  "author": "GenPark AI",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "topics": [
+    "mcp",
+    "vector-embedding",
+    "simhash",
+    "deduplication",
+    "embedding-cache",
+    "lru-cache",
+    "python-standard-library",
+    "agent-skills",
+    "ai-infrastructure",
+    "cost-optimizer",
+    "retrieval"
+  ]
+}
