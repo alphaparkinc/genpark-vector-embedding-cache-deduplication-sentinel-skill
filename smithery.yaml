@@ -1,0 +1,6 @@
+startCommand:
+  type: stdio
+  configSchema: {}
+  commandFunction:
+    - python
+    - mcp_server.py
